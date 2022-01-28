@@ -1,6 +1,6 @@
-# Neprocedurální programování - zápočtový program - Total coloring
+# Total coloring
 
-Zápočtový program z Neprocedurálního programování psaný v Prologu na téma Totální obarvení grafu (https://en.wikipedia.org/wiki/Total_coloring).
+Program na hledání Totálního obarvení grafu (https://en.wikipedia.org/wiki/Total_coloring) psaný v Prologu.
 
 Graf reprezentuji seznamem vrcholů a seznamem hran. Formát je tedy následující: _graph(Vrcholy,Hrany)_, kde hrana je navíc formátu _e(V1,V2)_. Důležité je, že vrcholy grafu nesmí být čísla (pak by program nerozeznal barvu od názvu vrcholu), v testovacích vstupech proto volím písmena. Příklad grafu: `graph([a,b,c],[e(a,b),e(b,c),e(c,a)]`
 
