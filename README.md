@@ -1,4 +1,4 @@
-# Total coloring
+# Total Coloring
 
 Program na hledání Totálního obarvení grafu (https://en.wikipedia.org/wiki/Total_coloring) psaný v Prologu.
 
